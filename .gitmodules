@@ -1,0 +1,6 @@
+[submodule "quantum-search-algo"]
+	path = quantum-search-algo
+	url = ./quantum-search-algo
+[submodule "quantum-hello-world"]
+	path = quantum-hello-world
+	url = ./quantum-hello-world
