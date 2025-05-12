@@ -3,4 +3,4 @@
 	url = ./quantum-search-algo
 [submodule "quantum-hello-world"]
 	path = quantum-hello-world
-	url = ./quantum-hello-world
+	url = "https://github.com/duspic/quantum-hello-world"
