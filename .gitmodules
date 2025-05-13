@@ -1,6 +1,6 @@
 [submodule "quantum-search-algo"]
 	path = quantum-search-algo
-	url = ./quantum-search-algo
+	url = "https://github.com/duspic/quantum-search"
 [submodule "quantum-hello-world"]
 	path = quantum-hello-world
 	url = "https://github.com/duspic/quantum-hello-world"
